@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN",
+    "prefix": "PREFIX",
+    "ownerID": "KENDI ID'NIZ",
+    "footertext": "Retro iyi eğlenceler diler.",
+    "colors": {
+        "yes": "GREEN",
+        "no": "RED"
+    }
+}
